@@ -1,0 +1,26 @@
+Kütüphane Veri Tabanı Analizi
+
+1) Hayata geçirilecek sistem neye hizmet edecektir?
+   İlkokul çocuklarına uygun düzeydeki kitapların bulunduğu veri tabanıdır.
+   
+2) Veri tabanı hangi ihtiyaçları karşılayacaktır?
+   Kütüphanede kataloglanacak kitaplarla ilgili verilere ulaşmamızı sağlayacaktır.
+   
+3) Veri tabanında hangi veriler depolanacaktır?
+   Kitaba, yazara ve yayınevine ait veriler depolanacaktır.
+  
+4) Veri tabanında ne tür veriler depolanacaktır?
+   ISBN
+   Kitabın adı
+   Kitabın yazarının adı
+   Kitabın yazarının soyadı
+   Kitabın basım yılı
+   Kitabın basım yeri
+   Kitabın yayınevi adı
+   Kitabın fiziksel özellikleri 
+    
+   Yazarın Adı
+   Yazarın Soyadı
+   
+   Yayınevi Adı
+   Yayınevi No 
