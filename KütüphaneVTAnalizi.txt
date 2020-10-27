@@ -18,6 +18,4 @@ Kütüphane Veri Tabanı Analizi
    Kitabın basım yeri
    Kitabın yayınevi adı
    Kitabın fiziksel özellikleri 
-   
-   Yayınevi Adı
    Yayınevi No 
